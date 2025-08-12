@@ -1,1 +1,33 @@
+# Maven build
 /JspTemplateEngine/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE settings
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Generated files
+out/
+build/
+
+# Spring Boot specific
+.spring-boot-devtools.properties
