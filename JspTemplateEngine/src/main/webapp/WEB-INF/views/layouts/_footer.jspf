@@ -1,0 +1,4 @@
+<footer>
+  <hr/>
+  <small>&copy; <%= java.time.Year.now() %> JSP Template Engine Demo ? Spring Boot 3 + Jakarta JSP/JSTL</small>
+</footer>

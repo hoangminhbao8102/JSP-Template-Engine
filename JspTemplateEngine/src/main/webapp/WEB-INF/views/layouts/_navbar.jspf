@@ -1,0 +1,10 @@
+<%@ taglib prefix="c" uri="jakarta.tags.core" %>
+<header>
+  <nav>
+    <a href="<c:url value='/'/>">Trang ch?</a>
+    <a href="<c:url value='/about'/>">Gi?i thi?u</a>
+    <a href="<c:url value='/products'/>">S?n ph?m</a>
+    <a href="https://spring.io" target="_blank" rel="noopener">Spring</a>
+  </nav>
+  <hr/>
+</header>
